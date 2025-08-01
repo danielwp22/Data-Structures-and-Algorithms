@@ -10,10 +10,9 @@ This project is based on the [Udemy course: *Master the Coding Interview – Dat
 - Singly Linked List
 - Doubly Linked List
 - Stack (Array and Linked List based)
-- Queue (Array and Linked List based)
+- Queue (Linked List based, Stack based)
 - Hash Table
 - Binary Search Tree (BST)
-- Heap (Min/Max)
 - Graph (Adjacency List / Matrix)
 
 ### ⚙️ Algorithms
@@ -22,8 +21,7 @@ This project is based on the [Udemy course: *Master the Coding Interview – Dat
   - Selection Sort
   - Insertion Sort
   - Merge Sort
-  - Quick Sort
-  - Heap Sort
+  - Quick Sort (learned but not implemented)
 - Searching:
   - Linear Search
   - Binary Search
@@ -33,6 +31,9 @@ This project is based on the [Udemy course: *Master the Coding Interview – Dat
   - Breadth-First Search (BFS)
   - Dijkstra’s Algorithm
   - Topological Sort
+- Dynamic Programming
+
+- Additionally includes code from leetcode problems I worked on
 
 ## 🚀 Goals
 - Master key concepts in C++ through hands-on implementation
