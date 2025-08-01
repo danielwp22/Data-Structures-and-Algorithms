@@ -1,50 +1,48 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms in C++
 
-## Welcome
+This repository contains my implementations of core **data structures** and **algorithms** in C++. All code is written from scratch as part of my effort to strengthen my programming skills and deepen my understanding of computer science fundamentals.
 
-Hello and welcome to an open souce project created by shree1999! This project is designed to help beginner computer science students a place to learn and practice data structures and algorithms common to computer science. The goal is for you to be able to learn the ins and outs of these structures to the point where you can use them in your own projects and problems. You will find that different structures work better for different kinds of data. Part of the hope with this is that you will begin to gain an understanding of when and where to use different structures. Let's get learning!
+This project is based on the [Udemy course: *Master the Coding Interview – Data Structures & Algorithms*](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) by Andrei Neagoie.
 
-### What's in this Project?
-- Data Structures:
-   - Arrays
-   - Graphs
-   - Hash Tables
-   - Linked Lists
-   - Queues
-   - Stacks
-   - Trees
-- Algorithms:
-   - Recursions
-      - Factorial
-      - Fibonacci
-      - Reverse String
-   - Searching
-      - Breadth First
-      - Depth First
-      - Dijkstra
-      - Bellmann-Ford
-      - Binary
-      - Linear
-   - Sorting
-      - Bubble
-      - Heap
-      - Insertion
-      - Merge
-      - Quick
-      - Selection
+## 🔧 Contents
 
-All of these examples and problems presented are written in C/C++.
+### 🧱 Data Structures
+- Singly Linked List
+- Doubly Linked List
+- Stack (Array and Linked List based)
+- Queue (Array and Linked List based)
+- Hash Table
+- Binary Search Tree (BST)
+- Heap (Min/Max)
+- Graph (Adjacency List / Matrix)
 
-## Getting Started
+### ⚙️ Algorithms
+- Sorting:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+- Searching:
+  - Linear Search
+  - Binary Search
+- Recursion & Backtracking
+- Graph Algorithms:
+  - Depth-First Search (DFS)
+  - Breadth-First Search (BFS)
+  - Dijkstra’s Algorithm
+  - Topological Sort
 
-Don't know where to start? Right here is perfect! We will walk you through exactly how to get set up to work with these data structures and algorithms and solve the problems we have set up for you.
+## 🚀 Goals
+- Master key concepts in C++ through hands-on implementation
+- Build a personal reference for technical interviews
+- Reinforce concepts covered in the course with real code
 
-1. To get started, make a fork of this repository.
-2. You will want to have an IDE to work in, Visual Studio or VS Code are typical for C/C++.
-3. In your forked version, press the green code button. Copy the HTTPS link.
-4. Open Visual Studio, select clone a repository
-5. Paste the Link in "Repository Location", and select the destination you want your local copy stored in
-6. Click clone and get started!
+## 📌 Notes
+This repository is for learning purposes. Code prioritizes clarity and correctness over performance optimization or edge-case handling.
 
-## Contributions
-* This repository is open for contributions feel free to check the CONTRIBUTING.md file for details on how to add anything I missed
+## 🧠 Future Plans
+- Add unit tests using a lightweight C++ testing framework
+- Annotate each algorithm with time and space complexity
+- Add example problems and walkthroughs for selected topics
